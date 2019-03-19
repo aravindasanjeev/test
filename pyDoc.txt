@@ -16,5 +16,5 @@ pageObj = pdfReader.getPage(0)
 # extracting text from page 
 print(pageObj.extractText()) 
   
-# closing the pdf file object 
+# closing the pdf file object 123
 pdfFileObj.close() 
