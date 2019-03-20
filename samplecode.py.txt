@@ -5,4 +5,4 @@ for i in range(0,n):
     a.append(elem)
 avg=sum(a)/n
 print("Average of elements in the list",round(avg,2))
-123
+1234567
