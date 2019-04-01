@@ -19,5 +19,5 @@ print(pageObj.extractText())
 # closing the pdf file object 123
 pdfFileObj.close() 
 
-
+12345
 1212
