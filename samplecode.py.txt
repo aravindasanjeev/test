@@ -7,3 +7,4 @@ avg=sum(a)/n
 print("Average of elements in the list",round(avg,2))
 1234567
 1234
+1212455
